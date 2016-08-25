@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/form",
-  "version": "1.4.12",
+  "version": "1.4.13",
   "description": "React form components",
   "main": "dist/index",
   "scripts": {
