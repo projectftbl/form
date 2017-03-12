@@ -1,6 +1,6 @@
 {
   "name": "@recipher/form",
-  "version": "1.4.18",
+  "version": "1.4.19",
   "description": "React form components",
   "main": "dist/index",
   "scripts": {
